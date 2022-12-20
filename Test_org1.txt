@@ -1,0 +1,1 @@
+Test to fetch file form origin to local.
